@@ -23,7 +23,7 @@ class B5 extends A2
 	}
 }
 
-class AbstractEx extends B5
+class AbstractEx 
 {
 	public static void main(String args[])
 
