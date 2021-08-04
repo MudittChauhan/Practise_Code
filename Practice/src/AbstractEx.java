@@ -28,7 +28,7 @@ class AbstractEx extends B5
 	public static void main(String args[])
 
 	{
-		B5 b1=new B5();
+		A2 b1=new B5();
 		b1.x();
 		b1.y();
 	}

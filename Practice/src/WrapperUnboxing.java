@@ -5,6 +5,10 @@ public class WrapperUnboxing
 	Integer i=new Integer(5);
 	int a=i.intValue();
 	System.out.println(i+" "+a);
+	
+	Character c=new Character('M');
+	char c1=c.charValue();
+	System.out.println("\n"+c1);
 	}
 
 }
