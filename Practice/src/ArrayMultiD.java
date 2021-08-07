@@ -10,9 +10,6 @@ public class ArrayMultiD
 			System.out.print(a[i][j]+" ");
 		}
 		System.out.println();
+	}	
 	}
-	
-	
-	}
-
 }
