@@ -118,7 +118,7 @@ class Calculator
 		}
 		catch (Exception e)
 		{
-			System.out.println(e);
+			//System.out.print(e);
 		}
 	}
 }
