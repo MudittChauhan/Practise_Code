@@ -1,4 +1,4 @@
-class Sum_Array_MinMax
+class ArrayMinMax
 {  
 	static void min(int m1[])
 	{
